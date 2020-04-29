@@ -6,12 +6,16 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 
 
 
-Try It
+Something New in react
 ---
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
-
-
+'git branch'
+'git fetch origin'
+'git checkout master'
+'git add README.md'
+'git commit -m "my comment"'
+'git remote add origin https://github.com/SuriM92/Calc.git'
+''
 
 Install
 ---
